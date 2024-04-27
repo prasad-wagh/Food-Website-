@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.nav-link {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+.dropdown-item {
+    color: white;
+    margin-top: 10px;
+}
+.carousel-inner {
+    height: 700px;
+    width: 100%;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+iframe{
+	height: 200px;
+	width: 100%;
+}
+.footer{
+	background-color: rgba(0,0,0,0.5);
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-gE1PIMesjmDpZ6AFkpqQ3XLfJ4aA2yJqQ&usqp=CAU);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
